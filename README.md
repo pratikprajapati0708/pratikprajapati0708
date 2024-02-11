@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratik Prajapati
 - 👀 I’m a Web Developer
-- 🌱 I’m currently Working as a SE in Accenture.
+- 🌱 I’m currently Working as SDE
 - 📫 reach me in Linkedin 
 
 <!---
