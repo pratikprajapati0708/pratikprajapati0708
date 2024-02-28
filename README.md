@@ -1,5 +1,7 @@
 # 💫 About Me:
- - 👋 Hi, I’m Pratik Prajapati<br>- 👀 I’m a Web Developer<br>- 🌱 I’m currently Working as SDE @Danaher.
+ - 👋 Hi, I’m Pratik Prajapati
+ - 👀 I’m a Web Developer
+ -  🌱 I’m currently Working as SDE @Danaher.
  - Talks about Tech Language
 
 
