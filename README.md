@@ -3,6 +3,7 @@
  - 👀 I’m a Web Developer
  -  🌱 I’m currently Working as SDE @Danaher.
  - Talks about Tech Language
+ - Reach out to me in below Socials
 
 
 ## 🌐 Socials:
