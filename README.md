@@ -1,7 +1,7 @@
 # 💫 About Me:
  - 👋 Hi, I’m Pratik Prajapati
- - 👀 I’m a Web/Frontend/Backend Developer.
- -  🌱 I’m currently Working as SDE @Danaher.
+ - I’m a Web/Frontend/Backend Developer.
+ - I’m currently Working as SDE @Danaher.
  - Talks about Tech Language
  - Reach out to me in below Socials
 
