@@ -2,8 +2,8 @@
  - 👋 Hi, I’m Pratik Prajapati
  - I’m a Web/Frontend/Backend/FullStack Developer.
  - I’m currently Working as SDE @Danaher.
- - Talks about Tech Language
- - Reach out to me in below Socials
+ - Talks about Technology.
+ - Reach out to me in below Social-
 
 
 ## 🌐 Socials:
