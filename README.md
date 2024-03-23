@@ -3,7 +3,7 @@
  - I’m a Web/Frontend/Backend/FullStack Developer.
  - I’m currently Working as SDE @Danaher.
  - Talks about Technology.
- - Reach out to me in below Social-
+ - Reach out to me in Linkedin below -
 
 
 ## 🌐 Socials:
