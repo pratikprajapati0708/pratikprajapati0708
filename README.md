@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
  - 👋 Hi, I’m Pratik Prajapati
  - I’m a Web/Frontend/Backend/FullStack Developer.
  - I’m currently Working as SDE @Danaher.
