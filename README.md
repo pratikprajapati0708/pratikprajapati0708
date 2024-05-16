@@ -1,7 +1,7 @@
 # 💫 About Me :
  - 👋 Hi, I’m Pratik Prajapati
  - I’m a Web/Frontend/Backend/FullStack Developer.
- - I’m currently working as SDE @Danaher Corporation.
+ - I’m currently working as SDE @Veralto Corporation.
  - Talks about Tech and programming.
  - Reach out to me in Linkedin below :
 
